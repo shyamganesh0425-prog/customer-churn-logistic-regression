@@ -14,8 +14,6 @@ It contains customer information such as tenure, monthly charges, total charges,
 
 ## Features Used
 
-The following features were used to train the Logistic Regression model:
-
 - Tenure
 - Monthly Charges
 - Total Charges
@@ -59,31 +57,3 @@ The target variable is **Churn**.
 ```text
 [[937, 96],
  [215, 159]]
-
-## Keep Learning
-
-This project helped me understand how Logistic Regression can be used for binary classification.
-
-I learned about data preprocessing, feature scaling, model training, probability prediction, threshold-based classification, and model evaluation using Accuracy, Precision, Recall, F1 Score, and ROC-AUC.
-
-## Tools & Technologies
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Google Colab
-- GitHub
-
-## Project Files
-
-- `Customer_Churn_Logistic_Regression.ipynb` — Complete project notebook
-- `WA_Fn-UseC_-Telco-Customer-Churn.csv` — Dataset
-
-## Conclusion
-
-The Logistic Regression model achieved an accuracy of 77.90% and a ROC-AUC score of 79.98%.
-
-This project helped me understand the complete Machine Learning workflow for a binary classification problem using Logistic Regression.
