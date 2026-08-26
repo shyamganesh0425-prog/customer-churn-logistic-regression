@@ -54,6 +54,28 @@ The target variable is **Churn**.
 
 ## Confusion Matrix
 
-```text
 [[937, 96],
  [215, 159]]
+
+## Keep Learning
+
+This project helped me understand how Logistic Regression can be used for binary classification.
+
+I learned about data preprocessing, feature scaling, model training, probability prediction, threshold-based classification, and model evaluation using Accuracy, Precision, Recall, F1 Score, and ROC-AUC.
+
+## Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Google Colab
+- GitHub
+
+## Conclusion
+
+The Logistic Regression model achieved an accuracy of 77.90% and a ROC-AUC score of 79.98%.
+
+This project helped me understand the complete Machine Learning workflow for a binary classification problem using Logistic Regression.
