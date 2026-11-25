@@ -26,3 +26,9 @@ jobs:
 
       - name: Check formatting
         run: ruff format --check .
+
+      - name: Install pytest
+        run: pip install pytest
+
+      - name: Run tests
+        run: pytest
